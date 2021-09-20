@@ -1,0 +1,50 @@
+/*
+ Theme Name:   Astra Child Theme
+ Theme URI:    http://sofiemosegaard.dk/
+ Description:  Astra Child Theme
+ Author:       Sofie Mosegaard Holm
+ Author URI:   http://sofiemosegaard.dk/
+ Template:     astra
+ Version:      1.3.9
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         custom-menu, custom-logo, entertainment, one-column, two-columns, left-sidebar, e-commerce, right-sidebar, custom-colors, editor-style, featured-images, full-width-template, microformats, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready, blog
+ Text Domain:  astrachild
+*/
+
+
+ h1.elementor-heading-title.elementor-size-default {
+    font-family: playfair;
+}
+ h1.elementor-heading-title.elementor-size-large {
+    font-family: playfair;
+}
+
+h1.elementor-heading-title.elementor-size-xl.elementor-inline-editing {
+    font-family: playfair;
+}
+a.menu-link {
+    font-family: playfair;
+}
+    
+
+
+body.elementor-page-30:not(.elementor-motion-effects-element-type-background), body.elementor-page-30 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #ffffff;
+    LINE-HEIGHT: 2;
+}
+
+body.elementor-page-31:not(.elementor-motion-effects-element-type-background), body.elementor-page-31 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #ffffff;
+    LINE-HEIGHT: 2;
+}
+
+body.elementor-page-32:not(.elementor-motion-effects-element-type-background), body.elementor-page-32 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #ffffff;
+    LINE-HEIGHT: 2;
+}
+
+.elementor-widget-wrap.elementor-element-populated {
+    LINE-HEIGHT: 2;
+}
+
